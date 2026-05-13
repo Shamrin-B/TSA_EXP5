@@ -123,8 +123,7 @@ PLOTTING THE DATA:
 
 SEASONAL PLOT REPRESENTATION :
 
-
-<img width="431" height="137" alt="image" src="https://github.com/user-attachments/assets/0555d50d-ed93-4edb-a412-17b7fc827418" />
+<img width="1225" height="362" alt="image" src="https://github.com/user-attachments/assets/cca3cef8-c217-44c3-92cf-3eeb1a022b35" />
 
 
 
@@ -132,14 +131,14 @@ SEASONAL PLOT REPRESENTATION :
 TREND PLOT REPRESENTATION :
 
 
-<img width="441" height="137" alt="image" src="https://github.com/user-attachments/assets/b6e203e2-2548-4e24-811d-62cf86ad5c79" />
+<img width="1231" height="382" alt="image" src="https://github.com/user-attachments/assets/b4ad04a0-9cab-4705-8657-d6c8b45e9ede" />
 
 
 
 RESIDUAL REPRESENTATION:
 
+<img width="1231" height="371" alt="image" src="https://github.com/user-attachments/assets/11e3ab47-1733-4485-990e-ce88d40e2f56" />
 
-<img width="441" height="128" alt="image" src="https://github.com/user-attachments/assets/0fc990dc-d632-451d-aa7b-42a3f9071447" />
 
 
 
